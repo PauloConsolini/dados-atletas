@@ -19,7 +19,8 @@ nome,
 idade,
 peso,
 altura e
-notas
+notas.
+
 A classe deverá possuir os seguintes métodos:
 
 calculaCategoria(), para calcular a categoria do atleta;
