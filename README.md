@@ -15,10 +15,10 @@ Você deverá criar uma classe Atleta para concentrar os atributos e métodos do
 
 A classe deverá receber os seguintes atributos:
 
-nome
-idade
-peso
-altura
+nome,
+idade,
+peso,
+altura e
 notas
 A classe deverá possuir os seguintes métodos:
 
