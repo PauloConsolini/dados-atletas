@@ -64,6 +64,7 @@ Fórmula: imc = peso / (altura x altura)
 3. Para calcular a média válida
 
 Método: Utilize o metodologia abordada no Projeto de Certificação 1.
+
 Exemplo de entrada
 
 // Declara o atleta
